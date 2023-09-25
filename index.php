@@ -16,5 +16,7 @@
 <div><img src="images/python1.jpg" alt="Hello Git" style="width:100%;max-width:640px">
     <p>i am adding new line</p>
     <p>local git mai change karker use push cmd se github mai change karna hai</p>
+    <p>change</p>
+
 </body>
 </html>
